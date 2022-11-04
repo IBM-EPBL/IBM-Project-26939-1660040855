@@ -5,7 +5,7 @@ import re
  
  
 app = Flask(__name__)
-
+#12
 app.secret_key = 'your secret key'
  
 app.config['DB2_DATABASE'] = 'sample'
